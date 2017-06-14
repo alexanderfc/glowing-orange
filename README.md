@@ -3,19 +3,12 @@
 Requires Java 7 or newer.
 
 To clear old files:
+`make clean`
 
-	```
-	make clean
-	```
 
 To compile:
+`make compile`
 
-	```
-	make compile
-	```
 
 To run tests simulation:
-
-	```
-	make test
-	```
+`make test`
